@@ -1,0 +1,39 @@
+#EXTM3U
+#EXT-X-VERSION:7
+## Created with Broadpeak BkS350 Origin Packager  (version=1.12.1-28247)
+#EXT-X-MEDIA-SEQUENCE:431041139
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-TARGETDURATION:6
+#USP-X-TIMESTAMP-MAP:MPEGTS=6232200951,LOCAL=2024-08-20T14:35:53.009300Z
+#EXT-X-PROGRAM-DATE-TIME:2024-08-20T14:35:53.009333Z
+#EXT-X-KEY:METHOD=AES-128,URI="https://jio.drmlive.au/jio/fallback/bpk-tv/B4U_Movies_MOB/Fallback/hls/aes128.key-f4b34dd696ea5be4a70dcbb7f671a051-1724164200.pkey"
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/B4U_Movies_MOB/Fallback/B4U_Movies_MOB-audio_97234_und=97200-video=1700000-431041139.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/B4U_Movies_MOB/Fallback/B4U_Movies_MOB-audio_97234_und=97200-video=1700000-431041140.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/B4U_Movies_MOB/Fallback/B4U_Movies_MOB-audio_97234_und=97200-video=1700000-431041141.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/B4U_Movies_MOB/Fallback/B4U_Movies_MOB-audio_97234_und=97200-video=1700000-431041142.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/B4U_Movies_MOB/Fallback/B4U_Movies_MOB-audio_97234_und=97200-video=1700000-431041143.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/B4U_Movies_MOB/Fallback/B4U_Movies_MOB-audio_97234_und=97200-video=1700000-431041144.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/B4U_Movies_MOB/Fallback/B4U_Movies_MOB-audio_97234_und=97200-video=1700000-431041145.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/B4U_Movies_MOB/Fallback/B4U_Movies_MOB-audio_97234_und=97200-video=1700000-431041146.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/B4U_Movies_MOB/Fallback/B4U_Movies_MOB-audio_97234_und=97200-video=1700000-431041147.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/B4U_Movies_MOB/Fallback/B4U_Movies_MOB-audio_97234_und=97200-video=1700000-431041148.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/B4U_Movies_MOB/Fallback/B4U_Movies_MOB-audio_97234_und=97200-video=1700000-431041149.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/B4U_Movies_MOB/Fallback/B4U_Movies_MOB-audio_97234_und=97200-video=1700000-431041150.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/B4U_Movies_MOB/Fallback/B4U_Movies_MOB-audio_97234_und=97200-video=1700000-431041151.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/B4U_Movies_MOB/Fallback/B4U_Movies_MOB-audio_97234_und=97200-video=1700000-431041152.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/B4U_Movies_MOB/Fallback/B4U_Movies_MOB-audio_97234_und=97200-video=1700000-431041153.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276

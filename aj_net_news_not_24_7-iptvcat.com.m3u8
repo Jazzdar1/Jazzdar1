@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",AJ Net News [Not 24/7]
+http://rtmp.logicwebs.in:1935/live/ajnet/playlist.m3u8?checkedby:iptvcat.com

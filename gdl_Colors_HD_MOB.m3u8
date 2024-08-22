@@ -1,0 +1,39 @@
+#EXTM3U
+#EXT-X-VERSION:7
+## Created with Broadpeak BkS350 Origin Packager  (version=1.12.1-28247)
+#EXT-X-MEDIA-SEQUENCE:431041093
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-TARGETDURATION:6
+#USP-X-TIMESTAMP-MAP:MPEGTS=6215723751,LOCAL=2024-08-20T14:32:49.929300Z
+#EXT-X-PROGRAM-DATE-TIME:2024-08-20T14:32:49.929333Z
+#EXT-X-KEY:METHOD=AES-128,URI="https://jio.drmlive.au/jio/fallback/bpk-tv/Colors_HD_MOB/Fallback/hls/aes128.key-ac728b7063ce534f9e3d68cecdd75219-1724164200.pkey"
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_HD_MOB/Fallback/Colors_HD_MOB-audio_98835_hin=98800-video=2293600-431041093.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_HD_MOB/Fallback/Colors_HD_MOB-audio_98835_hin=98800-video=2293600-431041094.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_HD_MOB/Fallback/Colors_HD_MOB-audio_98835_hin=98800-video=2293600-431041095.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_HD_MOB/Fallback/Colors_HD_MOB-audio_98835_hin=98800-video=2293600-431041096.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_HD_MOB/Fallback/Colors_HD_MOB-audio_98835_hin=98800-video=2293600-431041097.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_HD_MOB/Fallback/Colors_HD_MOB-audio_98835_hin=98800-video=2293600-431041098.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_HD_MOB/Fallback/Colors_HD_MOB-audio_98835_hin=98800-video=2293600-431041099.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_HD_MOB/Fallback/Colors_HD_MOB-audio_98835_hin=98800-video=2293600-431041100.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_HD_MOB/Fallback/Colors_HD_MOB-audio_98835_hin=98800-video=2293600-431041101.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_HD_MOB/Fallback/Colors_HD_MOB-audio_98835_hin=98800-video=2293600-431041102.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_HD_MOB/Fallback/Colors_HD_MOB-audio_98835_hin=98800-video=2293600-431041103.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_HD_MOB/Fallback/Colors_HD_MOB-audio_98835_hin=98800-video=2293600-431041104.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_HD_MOB/Fallback/Colors_HD_MOB-audio_98835_hin=98800-video=2293600-431041105.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_HD_MOB/Fallback/Colors_HD_MOB-audio_98835_hin=98800-video=2293600-431041106.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
+#EXTINF:4, no desc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_HD_MOB/Fallback/Colors_HD_MOB-audio_98835_hin=98800-video=2293600-431041107.ts?__hdnea__=st=1724164000~exp=1724250400~acl=/*~hmac=37c301bf9dac5496bd5b892937a8bd6b40cfa45e4c141eb89a8d8e3fc6b89276
